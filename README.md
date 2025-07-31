@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Parham Esmaeili
 
-<!--
-**ParhamEsmaeili13/ParhamEsmaeili13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A committed and detail-driven **Back-end Developer** with solid expertise in **Django**, **REST API development**, and scalable system design.  
+I specialize in building robust backends using Python, optimizing performance, and ensuring clean architecture in every project.  
+Currently based in Iran and open to **remote/freelance opportunities** worldwide.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧰 Tech Stack
+
+- 🐍 Python, Django, Django REST Framework
+- 🛢 PostgreSQL, Redis
+- ⚙️ Docker
+- 📦 Git & GitHub, Linux
+
+---
+
+## 📌 Featured Projects
+
+### 🔗 [Social Media Platform](https://github.com/ParhamEsmaeili13/social-media)
+A full-featured Django-based social network with registration, post creation, comments, replies, and like system.  
+**Tech:** Django, PostgreSQL
+
+### 🔗 [Personal Website](https://github.com/ParhamEsmaeili13/personal-wbsite)
+A Django-powered personal website with a custom admin panel for content management.  
+**Tech:** Django, Bootstrap, SQLite
+
+### 🔗 [Multi-Shop](https://github.com/ParhamEsmaeili13/multi-shop)
+Scalable and feature-rich e-commerce web application built with Django.It supports product listing, dynamic filtering, user authentication, order management, and more.
+.  
+**Tech:** Django, PostgreSQL
+
+---
+
+## 📈 Achievements
+
+- 🔄 Improved API response time by **60%** using Redis caching and queuing.
+- 🚀 Reduced backend response time by **30%** via query optimization.
+- 📡 Enhanced database communication by **45%** with AJAX and efficient DB interactions.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/parhamesmaeili13)
+- ✉️ Email: parham.esmaeilii.13@gmail.com
+
+---
+
+> *“Clean code always wins.”*
+
 -->
